@@ -1,0 +1,9 @@
+.one{background-color: grey;}
+body{background-image: url(https://i.pinimg.com/736x/88/42/bc/8842bcc068394058d863c33298175f93.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+background-attachment: fixed;}
+a {
+    text-decoration: none;
+    color: inherit; 
+}
